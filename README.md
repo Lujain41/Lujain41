@@ -17,9 +17,10 @@ I'm software developer | senior computer science ...
 
 ## Web development:
 
-<img width="60" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/e3c407b0-787b-4af4-9a15-6df3cf3870c5">
-<img width="70" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/9dc3ee70-ea51-431c-a42f-85b0642cb4a8">
-<img width="50" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/965b2aa4-7c83-4b58-9365-34ec3bff46d1">
+<img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/e3c407b0-787b-4af4-9a15-6df3cf3870c5">
+<img width="90" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/cf338ad6-7880-41be-84c7-63b69fb3de42">
+<img width="40" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/965b2aa4-7c83-4b58-9365-34ec3bff46d1">
+
 
 
 
@@ -36,4 +37,7 @@ I'm software developer | senior computer science ...
 <img width="50" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/83ffc2a1-98e3-4a7c-b498-7c792b5e71bc">
 
 ## Find me:
-email: lujainalshehri41@gmail.com
+<img width="30" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/c3056aff-6fa4-4265-844c-91826b29a6f4">
+ lujainalshehri41@gmail.com
+<img width="30" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/d9e08823-e528-4814-a689-a7a15abece53">
+linkedin.com/in/lujain-alshehri-1069a024a
