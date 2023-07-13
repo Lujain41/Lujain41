@@ -8,7 +8,7 @@ I'm software developer | senior computer science ...
 
 ## Programing language:
 
-![4990671](https://github.com/Lujain41/Lujain41/assets/90094489/26bcbf80-46fd-46bd-af09-76d91c8ec206)
+<img width="50" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/26bcbf80-46fd-46bd-af09-76d91c8ec206">
 ![Unknown](https://github.com/Lujain41/Lujain41/assets/90094489/c8a806c4-343b-49c0-86a8-f740e971132d)
 ![Unknown-4](https://github.com/Lujain41/Lujain41/assets/90094489/19af314f-5624-4301-8ee5-12b8555a3556)
 ![Unknown-3](https://github.com/Lujain41/Lujain41/assets/90094489/7e9eeaa4-8608-49d3-8fd1-7d22ebd407b8)
