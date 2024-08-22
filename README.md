@@ -4,7 +4,7 @@
 
 I'm software developer | senior computer science ...
 
-### SKILS 
+### SKILLS 
 
 ## Programing language:
 
