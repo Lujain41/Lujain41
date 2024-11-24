@@ -9,12 +9,14 @@ I'm Full-Stack Software Engineer| Senior Computer Science ...
 ## Programing language
 Front-End:
 
+![Unknown-1](https://github.com/user-attachments/assets/21f235d8-5fa6-44fd-8d6d-a78ce5e89dcf)
 
 
 
 
 
 ## Web development:
+![Unknown-1](https://github.com/user-attachments/assets/54979f27-ce24-459b-b510-ec974e3c5aa2)
 
 <img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/e3c407b0-787b-4af4-9a15-6df3cf3870c5">
 <img width="90" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/cf338ad6-7880-41be-84c7-63b69fb3de42">
