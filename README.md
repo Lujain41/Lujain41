@@ -20,15 +20,15 @@ I'm Full-Stack Software Engineer| Senior Computer Science ...
 <img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/3e9bb3eb-6100-4133-b9e7-1e13e681ecb7">
 <img width="80" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/d97f1216-495d-4ba7-ac59-8ac5cb8c4057">
 <img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/8aad7947-3427-44bb-a5ea-132619c2beab">
-<img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/7f9673a7-eb28-4e23-bf07-95337ba85e78">
-<img width="80" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/a8a87199-7f75-4805-a99f-47ca6775c7cc">
+<img width="50" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/7f9673a7-eb28-4e23-bf07-95337ba85e78">
+<img width="50" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/a8a87199-7f75-4805-a99f-47ca6775c7cc">
 
 
 
 
 ## Find me:
 <a href="https://linkedin.com/in/lujain-alshehri-1069a024a">
-  <img width="30" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/c3056aff-6fa4-4265-844c-91826b29a6f4">
+  <img width="30" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/03b9fd44-1e6e-4e78-8870-b431e383ce9a">
 </a>
 
 
