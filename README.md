@@ -8,11 +8,11 @@ I'm Full-Stack Software Engineer| Senior Computer Science ...
 
 ## Programing language
 Front-End:
-
-![Unknown-1](https://github.com/user-attachments/assets/21f235d8-5fa6-44fd-8d6d-a78ce5e89dcf)
-
-
-
+<br/>
+<img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/18316b2f-a917-4172-b37c-82a7ff89f0f6">
+<img width="90" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/eb500f5c-b2b4-4fbb-98c1-f61f4ffa8030">
+<img width="40" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/b4e14795-048b-4508-8ed1-53e88e637d82">
+<img width="40" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/1262c94e-f4ee-4557-b7eb-211111672fbb">
 
 
 ## Web development:
