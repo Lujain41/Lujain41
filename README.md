@@ -6,8 +6,7 @@ I'm Full-Stack Software Engineer| Senior Computer Science ...
 
 ### SKILLS 
 
-## Programing language
-Front-End:
+## Programing Language and Tools
 <br/>
 <img width="80" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/18316b2f-a917-4172-b37c-82a7ff89f0f6">
 <img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/eb500f5c-b2b4-4fbb-98c1-f61f4ffa8030">
@@ -20,7 +19,7 @@ Front-End:
 <img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/0bf96908-eecf-4a50-8260-24adbafa3d5f">
 <img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/3e9bb3eb-6100-4133-b9e7-1e13e681ecb7">
 <img width="80" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="[https://github.com/user-attachments/assets/b5e0a3e5-1cfe-4915-ba88-e3a4350fa4ac](https://github.com/user-attachments/assets/efaa9cc9-b98a-44cd-b74e-37e9ad35362e)">
-<img width="55" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/d97f1216-495d-4ba7-ac59-8ac5cb8c4057">
+<img width="80" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/d97f1216-495d-4ba7-ac59-8ac5cb8c4057">
 
 
 
@@ -32,3 +31,7 @@ Front-End:
  lujainalshehri41@gmail.com
 <img width="30" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/d9e08823-e528-4814-a689-a7a15abece53">
 linkedin.com/in/lujain-alshehri-1069a024a
+<a href="https://linkedin.com/in/lujain-alshehri-1069a024a">
+  <img width="30" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/Lujain41/Lujain41/assets/90094489/c3056aff-6fa4-4265-844c-91826b29a6f4">
+</a>
+
