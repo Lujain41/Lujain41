@@ -28,7 +28,7 @@ I'm Full-Stack Software Engineer| Senior Computer Science ...
 
 ## Find me:
 <a href="https://linkedin.com/in/lujain-alshehri-1069a024a">
-  <img width="30" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/03b9fd44-1e6e-4e78-8870-b431e383ce9a">
+  <img width="50" alt="Screen Shot 1444-12-06 at 2 45 29 PM" src="https://github.com/user-attachments/assets/03b9fd44-1e6e-4e78-8870-b431e383ce9a">
 </a>
 
 
