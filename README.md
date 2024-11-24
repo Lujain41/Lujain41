@@ -7,8 +7,8 @@ I'm Full-Stack Software Engineer| Senior Computer Science ...
 ### SKILLS 
 
 ## Programing language
-#Front-End:
-![Unknown](https://github.com/user-attachments/assets/1d1f7a4c-9694-4c0b-a5b0-bc2dc326b910)
+Front-End:
+
 
 
 
